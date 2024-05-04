@@ -15,4 +15,5 @@
 </div>
 
 ### Meu email para contato:
-[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] ### matheus.c.polletti@gmail.com
+[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)()]
+### matheus.c.polletti@gmail.com
