@@ -2,6 +2,7 @@
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuscpolletti/)
 [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5517997627043&text=Matheus)
+[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.c.polletti@gmail.com?subject=Gostaria de falar com você a respeito de...&body=Olá, gostaria de saber mais sobre...)
 
 ![Matheus Polletti GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusPolletti&show_icons=true&theme=radical)
 
@@ -13,7 +14,3 @@
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div>
-
-### Meu email para contato:
-[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AaSxoQwlU_xvFdFEVNh8vYMoNlcs1Lce_g48cIqckhFW0OKMTLmBpZoT2Qo0glOmw-gfko0YgfMwig&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-519788422%3A1714785027743907&theme=mn&ddm=0)]
-### matheus.c.polletti@gmail.com
