@@ -5,7 +5,7 @@
 
 ![Matheus Polletti GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusPolletti&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPolletti&langs_count=8&theme=chartreuse-dar)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusPolletti&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ### Tecnologias 🖥️
 
