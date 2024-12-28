@@ -1,12 +1,13 @@
-## Olá, sou Matheus Polletti! 👋  
+## Olá, me chamo Matheus Polletti! 👋  
 
-Bem-vindo(a) ao meu perfil! Sou estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Rio Preto 🎓 e apaixonado por transformar ideias em soluções através da tecnologia. Com foco em **desenvolvimento fullstack**, combino criatividade e lógica para criar aplicações completas e funcionais.
+Bem-vindo ao meu perfil! Sou estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Rio Preto e apaixonado por transformar ideias em soluções através da tecnologia.🎓
+Com foco em **desenvolvimento fullstack**, combino criatividade e lógica para criar aplicações completas e funcionais.
 
-Atualmente, trabalho com **React, Ant Design, C# .NET e SQL Server**, sempre buscando me desafiar com novos projetos. Além disso, tenho um grande interesse em expandir horizontes através de inovação e aprendizado constante.
+Atualmente, trabalho com **React, Ant Design, C# .NET, SQL Server, SQLite**, sempre buscando me desafiar com novos projetos. Além disso, tenho um grande interesse em expandir horizontes através de inovação e aprendizado constante.
 
 ---
 
-### **Minhas Skills** 🧑‍💻
+### **Minhas Habilidades** 🧑‍💻
 
 #### Desenvolvimento Web 🌐  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
@@ -21,8 +22,8 @@ Atualmente, trabalho com **React, Ant Design, C# .NET e SQL Server**, sempre bus
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  
 
 ---
 
