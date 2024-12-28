@@ -37,7 +37,7 @@ Atualmente, trabalho com **React, Ant Design, C# .NET, SQLite e SQL Server**, se
 ### **Projetos Recentes** 💻  
 Aqui estão alguns projetos que desenvolvi recentemente:  
 - [Projeto Fullstack de Gerenciamento de Treinos](#)  
-- [Web API integrada a SQL Server](#)  
+- [Web API integrada a SQL Server](https://github.com/MatheusPolletti/API)  
 - [Dashboard interativa com React e Ant Design](#)  
 
 > Sinta-se à vontade para explorar meu repositório e contribuir! Feedbacks são sempre bem-vindos.
