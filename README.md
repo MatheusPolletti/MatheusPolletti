@@ -1,7 +1,6 @@
 ## Olá, me chamo Matheus Polletti! 👋  
 
 <img align="center" alt="Sqlite" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FFCA28&width=420&lines=Seja+bem+vindo(a)+ao+meu+perfil+%F0%9F%98%81" />
-
 ---
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Rio Preto e apaixonado por transformar ideias em soluções através da tecnologia.🎓
