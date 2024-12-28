@@ -8,7 +8,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Rio Preto e
 
 Foco em **desenvolvimento fullstack**, combino criatividade e lógica para criar aplicações completas e funcionais.
 
-Atualmente, trabalho com **React, Ant Design, C# .NET, SQL Server, SQLite**, sempre buscando me desafiar com novos projetos. Além disso, tenho um grande interesse em expandir horizontes através de inovação e aprendizado constante.
+Atualmente, trabalho com **React, Ant Design, C# .NET, SQLite e SQL Server**, sempre buscando me desafiar com novos projetos. Além disso, tenho um grande interesse em expandir horizontes através de inovação e aprendizado constante.
 
 ---
 
