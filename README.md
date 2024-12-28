@@ -2,6 +2,10 @@
 
 <img align="center" alt="Sqlite" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FFCA28&width=420&lines=Seja+bem+vindo(a)+ao+meu+perfil+%F0%9F%98%81" />
 
+### **Vamos nos conectar?** 🌐  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuscpolletti/)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5517997627043&text=Olá,%20Matheus!)  
+
 ---
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Rio Preto e apaixonado por transformar ideias em soluções através da tecnologia.🎓
@@ -38,9 +42,3 @@ Atualmente, trabalho com **React, Ant Design, C# .NET, SQLite e SQL Server**, se
 Aqui estão alguns projetos que desenvolvi recentemente:  
 - [Front-end integrado a Web API](https://github.com/MatheusPolletti/client)  
 - [Web API integrada a SQL Server](https://github.com/MatheusPolletti/API)  
-
----
-
-### **Vamos nos conectar?** 🌐  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuscpolletti/)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5517997627043&text=Olá,%20Matheus!)  
