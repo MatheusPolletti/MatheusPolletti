@@ -10,7 +10,7 @@ Foco em **desenvolvimento fullstack**, combino criatividade e lógica para criar
 
 Atualmente, trabalho com **React, Ant Design, C# .NET, SQLite e SQL Server**, sempre buscando me desafiar com novos projetos. Além disso, tenho um grande interesse em expandir horizontes através de inovação e aprendizado constante.
 
-### **Vamos nos conectar?** 🌐  
+### **Vamos nos conectar?**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuscpolletti/)    
 
 ---
