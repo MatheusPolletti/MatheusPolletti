@@ -20,6 +20,8 @@ Atualmente, trabalho com **React, Ant Design, C# .NET, SQLite e SQL Server**, se
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusPolletti&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 ![Matheus' GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusPolletti&show_icons=true&count_private=true&hide=prs&hide_title=true&show_languages=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=MatheusPolletti&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
+
 
 
 #### Desenvolvimento Web 🌐  
