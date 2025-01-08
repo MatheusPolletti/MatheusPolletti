@@ -17,7 +17,7 @@ Atualmente, trabalho com **React, Ant Design, C# .NET, SQLite e SQL Server**, se
 
 ### **Minhas Habilidades** 🧑‍💻
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusPolletti&show_icons=true&theme=transparent)
 
 #### Desenvolvimento Web 🌐  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
