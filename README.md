@@ -17,7 +17,7 @@ Atualmente, trabalho com **React, Ant Design, C# .NET, SQLite e SQL Server**, se
 
 ### **Minhas Habilidades** 🧑‍💻
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusPolletti&show_icons=true&theme=transparent)
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusPolletti&show_icons=true&theme=transparent)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=MatheusPolletti&show_icons=true&locale=en&layout=compact&theme=transparent)
 
 #### Desenvolvimento Web 🌐  
@@ -37,10 +37,3 @@ Atualmente, trabalho com **React, Ant Design, C# .NET, SQLite e SQL Server**, se
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
-
----
-
-### **Projetos Recentes** 💻  
-Aqui estão alguns projetos que desenvolvi recentemente:  
-- [Front-end integrado a Web API](https://github.com/MatheusPolletti/client)  
-- [Web API integrada a SQL Server](https://github.com/MatheusPolletti/API)  
