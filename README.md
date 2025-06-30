@@ -4,7 +4,7 @@
 
 ---
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Rio Preto e apaixonado por transformar ideias em soluções através da tecnologia.🎓
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec Rio Preto e estagiário de desenvolvimento.🎓
 
 Foco em **desenvolvimento fullstack**, combino criatividade e lógica para criar aplicações completas e funcionais.
 
