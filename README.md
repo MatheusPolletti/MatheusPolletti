@@ -6,9 +6,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec Rio Preto e estagiário de desenvolvimento full stack.🎓
 
-Foco em **desenvolvimento fullstack**, sempre buscando me desafiar com novos projetos.
-
-Atualmente, trabalho com **TypeScript, Next.js, NestJS, Tailwind CSS, Prisma, Socket.IO e outros**.
+Foco em **desenvolvimento fullstack**, sempre buscando me desafiar com novos projetos, focando principalmente em Next e Nest.
 
 ### **Vamos nos conectar?**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuscpolletti/)    
