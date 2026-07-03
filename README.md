@@ -4,7 +4,7 @@
 
 ---
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec Rio Preto e estagiário de desenvolvimento full stack.🎓
+Sou formado em **Análise e Desenvolvimento de Sistemas** pela FATEC Rio Preto e atualmente atuo como **Desenvolvedor Júnior**. 🎓
 
 ### **Vamos nos conectar?**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuscpolletti/)    
